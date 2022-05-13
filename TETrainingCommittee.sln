@@ -9,8 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TE-Basic-CSProgramming.pptx = TE-Basic-CSProgramming.pptx
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{5F15B5E5-CC42-433E-8463-D8E93E736F2D}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jupyter", "Jupyter", "{33194F5C-75B7-45A6-B2FD-195F71CE0BF5}"
 	ProjectSection(SolutionItems) = preProject
 		Jupyter\01 Hello World.ipynb = Jupyter\01 Hello World.ipynb
@@ -100,119 +98,123 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L5", "L5", "{4BFF5B00-D9D0-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L6", "L6", "{C6B51FB7-8294-431E-99DC-21B2329AD11D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceException", "AdvanceException\AdvanceException.csproj", "{B6FDD99D-C9A0-4279-863B-6CB77D285EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceException", "AdvanceException\AdvanceException.csproj", "{B6FDD99D-C9A0-4279-863B-6CB77D285EB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceBreakPoint", "AdvanceBreakPoint\AdvanceBreakPoint.csproj", "{775AA226-B0FA-4369-A013-338CB68EE493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceBreakPoint", "AdvanceBreakPoint\AdvanceBreakPoint.csproj", "{775AA226-B0FA-4369-A013-338CB68EE493}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugMiniProject", "DebugMiniProject\DebugMiniProject.csproj", "{1B8E75FF-77CA-47EB-BB61-EDC8C4EC2367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DebugMiniProject", "DebugMiniProject\DebugMiniProject.csproj", "{1B8E75FF-77CA-47EB-BB61-EDC8C4EC2367}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04OOP1", "04OOP1", "{14FF3281-4278-41F4-92EB-23DFE42A469A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L2StaticClasses", "L2StaticClasses", "{1CBB0AED-BC41-4841-B76D-2A555FD9F05C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClasses", "StaticClasses\StaticClasses.csproj", "{A2114BE4-1463-4DFE-B012-7D9D62BE5922}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClasses", "StaticClasses\StaticClasses.csproj", "{A2114BE4-1463-4DFE-B012-7D9D62BE5922}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L3InstantiatedClasses", "L3InstantiatedClasses", "{A69C93D0-26EF-482B-84D5-D9A4292BF0B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantiatedClasses", "InstantiatedClasses\InstantiatedClasses.csproj", "{1C7FA96C-3226-4627-AEBC-3659AB1F364B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstantiatedClasses", "InstantiatedClasses\InstantiatedClasses.csproj", "{1C7FA96C-3226-4627-AEBC-3659AB1F364B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L4PropertyTypes", "L4PropertyTypes", "{59969A0E-1790-4216-BAF3-892128EA671D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyTypes", "PropertyTypes\PropertyTypes.csproj", "{F35ADC38-C3F6-4A46-8A76-2A5A401E6BA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyTypes", "PropertyTypes\PropertyTypes.csproj", "{F35ADC38-C3F6-4A46-8A76-2A5A401E6BA9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L5Namespace", "L5Namespace", "{9736D16D-AB2A-429B-8EBF-E0E0AA529F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespaces", "Namespaces\Namespaces.csproj", "{5C320FA4-4AB1-49A3-B15E-503623DC0E3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Namespaces", "Namespaces\Namespaces.csproj", "{5C320FA4-4AB1-49A3-B15E-503623DC0E3D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L6ClassLibrary", "L6ClassLibrary", "{6139615D-A899-4FC6-B791-5E4505AA22A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibConsole", "ClassLibConsole\ClassLibConsole.csproj", "{38E20E45-21BC-41BB-83F1-872296BFD6C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibConsole", "ClassLibConsole\ClassLibConsole.csproj", "{38E20E45-21BC-41BB-83F1-872296BFD6C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{7C912928-3C70-4FDF-B915-B2D5F34DCDD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{7C912928-3C70-4FDF-B915-B2D5F34DCDD1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L7BetterGuestBook", "L7BetterGuestBook", "{0EFD480D-006F-4A75-BFAE-57FEE1B11309}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterGuestBookConsole", "BetterGuestBookConsole\BetterGuestBookConsole.csproj", "{39861418-9DE1-4B2C-A2E6-CFF08AE666E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterGuestBookConsole", "BetterGuestBookConsole\BetterGuestBookConsole.csproj", "{39861418-9DE1-4B2C-A2E6-CFF08AE666E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestBookLibrary", "GuestBookLibrary\GuestBookLibrary.csproj", "{5C1645EE-093F-47FF-BF3F-06EA04B0D9DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuestBookLibrary", "GuestBookLibrary\GuestBookLibrary.csproj", "{5C1645EE-093F-47FF-BF3F-06EA04B0D9DB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05OOP2", "05OOP2", "{D2C46904-9577-4981-850F-DB4E204D234C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L02Inheritance", "L02Inheritance", "{B37F8FD1-F0FC-4110-A8CD-E57393E16C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDemo", "InheritanceDemo\InheritanceDemo.csproj", "{3D918441-A88E-43A8-9CB4-AD6EE13F9577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceDemo", "InheritanceDemo\InheritanceDemo.csproj", "{3D918441-A88E-43A8-9CB4-AD6EE13F9577}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L03Interface", "L03Interface", "{7CC119A0-1FA5-4986-9B9F-AE73829BF61C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDemo", "InterfaceDemo\InterfaceDemo.csproj", "{F1880321-5BC6-4936-894E-AE703A85F7FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceDemo", "InterfaceDemo\InterfaceDemo.csproj", "{F1880321-5BC6-4936-894E-AE703A85F7FF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L04InheritanceMiniProject", "L04InheritanceMiniProject", "{A290D2EA-F941-4113-9C65-43A49B897605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceMiniProjectApp", "InheritanceMiniProjectApp\InheritanceMiniProjectApp.csproj", "{0A14891E-3E5A-480D-8296-E7D74A6911E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceMiniProjectApp", "InheritanceMiniProjectApp\InheritanceMiniProjectApp.csproj", "{0A14891E-3E5A-480D-8296-E7D74A6911E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L05AccessModifiers", "L05AccessModifiers", "{3C83F223-E60B-453F-9A8C-2478B0A64230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersDemo", "AccessModifiersDemo\AccessModifiersDemo.csproj", "{1B965232-6D94-47FA-8E44-735E31E1EB10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiersDemo", "AccessModifiersDemo\AccessModifiersDemo.csproj", "{1B965232-6D94-47FA-8E44-735E31E1EB10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesModifyDemoLibrary", "AccesModifyDemoLibrary\AccesModifyDemoLibrary.csproj", "{244FC077-7E92-43DA-99DB-9209A9F095C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccesModifyDemoLibrary", "AccesModifyDemoLibrary\AccesModifyDemoLibrary.csproj", "{244FC077-7E92-43DA-99DB-9209A9F095C1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L06AbstractClass", "L06AbstractClass", "{40696BB9-0C0A-44AC-BDF9-C230166BF312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassDemo", "AbstractClassDemo\AbstractClassDemo.csproj", "{7D2056BC-4745-4145-A4DF-9DF0B505B16E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClassDemo", "AbstractClassDemo\AbstractClassDemo.csproj", "{7D2056BC-4745-4145-A4DF-9DF0B505B16E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L07MethodOverride", "L07MethodOverride", "{E1946BED-D1E9-4550-ADFC-CF312045B8D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverrideDemo", "MethodOverrideDemo\MethodOverrideDemo.csproj", "{B423907B-AEDB-4B1E-8CAA-72A7D478EDF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverrideDemo", "MethodOverrideDemo\MethodOverrideDemo.csproj", "{B423907B-AEDB-4B1E-8CAA-72A7D478EDF5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L08CardGameApp", "L08CardGameApp", "{69D68A5A-5474-4AD4-A41A-F0B069AE5AB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGame", "CardGame\CardGame.csproj", "{9801C0F2-25C2-4038-A0A0-862B1DA608BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardGame", "CardGame\CardGame.csproj", "{9801C0F2-25C2-4038-A0A0-862B1DA608BD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L09MethodOverload", "L09MethodOverload", "{2BAF4BDB-47A6-40EB-B2BA-DADC7568792A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverload", "MethodOverload\MethodOverload.csproj", "{8EB11A69-77D1-4DCC-A784-9B065AAD10EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverload", "MethodOverload\MethodOverload.csproj", "{8EB11A69-77D1-4DCC-A784-9B065AAD10EA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L10ExtensionMethod", "L10ExtensionMethod", "{CF90116D-5D2E-452F-9A45-A320AB09E666}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodDemo", "ExtensionMethodDemo\ExtensionMethodDemo.csproj", "{C1901DF3-87A3-495B-9A69-C22895AC0B09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodDemo", "ExtensionMethodDemo\ExtensionMethodDemo.csproj", "{C1901DF3-87A3-495B-9A69-C22895AC0B09}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L11ExtensionMethodMiniApp", "L11ExtensionMethodMiniApp", "{E81CA8DC-3775-488C-B4BB-0D20A2608F02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodMiniApp", "ExtensionMethodMiniApp\ExtensionMethodMiniApp.csproj", "{3B943380-8A68-411A-8AD3-88CEC4198641}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodMiniApp", "ExtensionMethodMiniApp\ExtensionMethodMiniApp.csproj", "{3B943380-8A68-411A-8AD3-88CEC4198641}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L12GenericDemo", "L12GenericDemo", "{9B97DE8F-9251-4A6C-B300-4976D903193D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDemo", "GenericDemo\GenericDemo.csproj", "{CDB64AF3-43EB-49BE-9A97-C98359067A21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDemo", "GenericDemo\GenericDemo.csproj", "{CDB64AF3-43EB-49BE-9A97-C98359067A21}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L13EventDemo", "L13EventDemo", "{7826E761-2027-4FFC-B00C-61388653171C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemo", "EventDemo\EventDemo.csproj", "{CC33314F-2035-451E-863A-278E0A3D2965}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventDemo", "EventDemo\EventDemo.csproj", "{CC33314F-2035-451E-863A-278E0A3D2965}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L14WrapUpDemo", "L14WrapUpDemo", "{C79E2122-2F16-4CC7-BE38-24F1AB040DD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapUpDemo", "WrapUpDemo\WrapUpDemo.csproj", "{0F28571B-480E-482A-8A9F-2DB7802E31A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrapUpDemo", "WrapUpDemo\WrapUpDemo.csproj", "{0F28571B-480E-482A-8A9F-2DB7802E31A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06DataAccess", "06DataAccess", "{FF5E3180-DE23-43B5-BB26-C63F327B8DD9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L05RelationalDB", "L05RelationalDB", "{E910DAF2-E0A5-4FB6-943A-ACE79AE8066B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLServerUI", "SQLServerUI\SQLServerUI.csproj", "{03E6084E-A432-45AF-8769-A0C961E0A3C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLServerUI", "SQLServerUI\SQLServerUI.csproj", "{03E6084E-A432-45AF-8769-A0C961E0A3C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{170CE6CA-5F10-4B67-9BC2-A25424972926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{170CE6CA-5F10-4B67-9BC2-A25424972926}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L11TextFile", "L11TextFile", "{4EFC30A3-9D0C-438A-B0A4-B5B90AD60F7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileUI", "TextFileUI\TextFileUI.csproj", "{9D6FDCE3-ACEC-496D-A1B8-F41AB1FF9D07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFileUI", "TextFileUI\TextFileUI.csproj", "{9D6FDCE3-ACEC-496D-A1B8-F41AB1FF9D07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessTextLibrary", "DataAccessTextLibrary\DataAccessTextLibrary.csproj", "{1325A7F4-591C-43CE-82AC-3E1B96895996}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessTextLibrary", "DataAccessTextLibrary\DataAccessTextLibrary.csproj", "{1325A7F4-591C-43CE-82AC-3E1B96895996}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L13LinqAndLamda", "L13LinqAndLamda", "{267A5FFC-F08F-4E52-A275-47388D911446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqUI", "LinqUI\LinqUI.csproj", "{CACACB48-6B15-4201-AE1D-8961B6799BA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqUI", "LinqUI\LinqUI.csproj", "{CACACB48-6B15-4201-AE1D-8961B6799BA7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L14EFCore", "L14EFCore", "{573A6964-CE8A-4298-91E5-174504A0DA85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFConsoleUI", "EFConsoleUI\EFConsoleUI.csproj", "{9992CA93-68CA-4230-96B1-AFDFAE21C4B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFConsoleUI", "EFConsoleUI\EFConsoleUI.csproj", "{9992CA93-68CA-4230-96B1-AFDFAE21C4B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07WindowForm", "07WindowForm", "{1602D506-F5AD-4F29-BE1E-DFB3A09CF272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OilPriceUI", "OilPriceUI\OilPriceUI.csproj", "{3837D590-DA4E-4E09-9A17-EFE15F5C32C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -220,10 +222,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5F15B5E5-CC42-433E-8463-D8E93E736F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F15B5E5-CC42-433E-8463-D8E93E736F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F15B5E5-CC42-433E-8463-D8E93E736F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F15B5E5-CC42-433E-8463-D8E93E736F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{716D7984-42D9-4349-8DA8-679469D6E0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{716D7984-42D9-4349-8DA8-679469D6E0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{716D7984-42D9-4349-8DA8-679469D6E0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -408,6 +406,10 @@ Global
 		{9992CA93-68CA-4230-96B1-AFDFAE21C4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9992CA93-68CA-4230-96B1-AFDFAE21C4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9992CA93-68CA-4230-96B1-AFDFAE21C4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3837D590-DA4E-4E09-9A17-EFE15F5C32C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3837D590-DA4E-4E09-9A17-EFE15F5C32C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3837D590-DA4E-4E09-9A17-EFE15F5C32C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3837D590-DA4E-4E09-9A17-EFE15F5C32C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -490,6 +492,7 @@ Global
 		{CACACB48-6B15-4201-AE1D-8961B6799BA7} = {267A5FFC-F08F-4E52-A275-47388D911446}
 		{573A6964-CE8A-4298-91E5-174504A0DA85} = {FF5E3180-DE23-43B5-BB26-C63F327B8DD9}
 		{9992CA93-68CA-4230-96B1-AFDFAE21C4B3} = {573A6964-CE8A-4298-91E5-174504A0DA85}
+		{3837D590-DA4E-4E09-9A17-EFE15F5C32C7} = {1602D506-F5AD-4F29-BE1E-DFB3A09CF272}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8C781959-1315-4FBC-B7BB-B5AC7F1F788C}
