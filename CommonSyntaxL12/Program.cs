@@ -8,7 +8,7 @@ namespace CommonSyntaxL12
         {
             SayAuthor();
 
-            //WelcomeUser("Tim");
+            //WelcomeUser("John");
 
             string firstName = GetUsersName("What is your first name: ");
             string lastName = GetUsersName("What is your last name: ");
@@ -20,7 +20,7 @@ namespace CommonSyntaxL12
         private static void SayAuthor()
         {
             Console.WriteLine("*************************");
-            Console.WriteLine("Writen by: Tim Corey");
+            Console.WriteLine("Writen by: John Snow");
             Console.WriteLine("for the Foundation in C# course.");
             Console.WriteLine("*************************");
         }

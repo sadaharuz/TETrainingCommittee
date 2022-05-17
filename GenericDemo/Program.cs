@@ -23,12 +23,12 @@ namespace GenericDemo
 
             //Console.WriteLine($"true: { result }");
 
-            //result = FizzBuzz(new PersonModel { FirstName = "Tim", LastName = "Corey" });
+            //result = FizzBuzz(new PersonModel { FirstName = "John", LastName = "Snow" });
 
             //Console.WriteLine($"PersonModel: { result }");
 
             GenericHelper<PersonModel> peopleHelper = new GenericHelper<PersonModel>();
-            peopleHelper.CheckItemAndAdd(new PersonModel { FirstName = "Tim", HasError = true });
+            peopleHelper.CheckItemAndAdd(new PersonModel { FirstName = "John", HasError = true });
 
             foreach (var item in peopleHelper.RejectedItems)
             {

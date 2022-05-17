@@ -14,7 +14,7 @@ namespace InstantiatedClasses
 
             //// Variable holds the street address
             //PersonModel person = new PersonModel();
-            //person.firstName = "Tim";
+            //person.firstName = "John";
             //people.Add(person);
 
             //person = new PersonModel();

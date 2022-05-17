@@ -8,9 +8,9 @@ namespace MethodOverrideDemo
         {
             PersonModel person = new PersonModel
             {
-                FirstName = "Tim",
-                LastName = "Corey",
-                Email = "tim@iamtimcorey.com"
+                FirstName = "John",
+                LastName = "Snow",
+                Email = "John.bunt@gmail.com"
             };
 
             Console.WriteLine(person);

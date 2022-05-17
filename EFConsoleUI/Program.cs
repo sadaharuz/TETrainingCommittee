@@ -69,11 +69,11 @@ namespace EFConsoleUI
         {
             var c = new Contact
             {
-                FirstName = "Tim",
-                LastName = "Corey"
+                FirstName = "John",
+                LastName = "Snow"
             };
-            c.EmailAddresses.Add(new Email { EmailAddress = "tim@iamtimcorey.com" });
-            c.EmailAddresses.Add(new Email { EmailAddress = "me@timothycorey.com" });
+            c.EmailAddresses.Add(new Email { EmailAddress = "John@gmail.com" });
+            c.EmailAddresses.Add(new Email { EmailAddress = "me@gmail.com" });
             c.PhoneNumbers.Add(new Phone { PhoneNumber = "555-1212" });
             c.PhoneNumbers.Add(new Phone { PhoneNumber = "555-1234" });
 
@@ -88,11 +88,11 @@ namespace EFConsoleUI
         {
             var c = new Contact
             {
-                FirstName = "Charity",
-                LastName = "Corey"
+                FirstName = "susan",
+                LastName = "Snow"
             };
             c.EmailAddresses.Add(new Email { EmailAddress = "nope@aol.com" });
-            c.EmailAddresses.Add(new Email { EmailAddress = "me@timothycorey.com" });
+            c.EmailAddresses.Add(new Email { EmailAddress = "me@gmail.com" });
             c.PhoneNumbers.Add(new Phone { PhoneNumber = "555-1212" });
             c.PhoneNumbers.Add(new Phone { PhoneNumber = "555-9876" });
 

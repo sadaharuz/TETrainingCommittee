@@ -9,7 +9,7 @@ namespace StaticClasses
             Console.Clear();
             Console.WriteLine("Welcome to the Static Class Demo App");
 
-            int hourOfDay = DateTime.Now.Hour;
+            int hourOfDay = Datetime.Now.Hour;
 
             if (hourOfDay < 12)
             {

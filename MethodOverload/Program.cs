@@ -6,7 +6,7 @@ namespace MethodOverload
     {
         static void Main(string[] args)
         {
-            var person = new PersonModel("Tim", "Corey");
+            var person = new PersonModel("John", "Snow");
 
             person.GenerateEmail();
 

@@ -1,6 +1,8 @@
 ﻿using OilPriceUI.Models;
 using RestSharp;
 using System;
+using System.Collections.Generic;
+using System.Globalization;
 using System.Text.Json;
 using System.Windows.Forms;
 
@@ -38,6 +40,20 @@ namespace OilPriceUI
             var client = new RestClient("https://orapiweb1.pttor.com/api/oilprice/search");
             var request = new RestRequest().AddJsonBody(requestData);
             var result = await client.PostAsync<OilPrice>(request);
+            var currentOilPriceData = result.data[0];
+            var priceDatas = JsonSerializer.Deserialize<List<PriceData>>(currentOilPriceData.priceData);
+            lbDateUpdated.Text = (new DateTime(currentOilPriceData.year, currentOilPriceData.month, currentOilPriceData.day)).ToString("dd MMMM yyyy", new CultureInfo("th"));
+            lbGasPrice01.Text = priceDatas[0].Price.ToString("n2");
+            lbGasPrice02.Text = priceDatas[1].Price.ToString("n2");
+            lbGasPrice03.Text = priceDatas[2].Price.ToString("n2");
+            lbGasPrice04.Text = priceDatas[3].Price.ToString("n2");
+            lbGasPrice05.Text = priceDatas[4].Price.ToString("n2");
+            lbGasPrice06.Text = priceDatas[5].Price.ToString("n2");
+            lbGasPrice07.Text = priceDatas[6].Price.ToString("n2");
+            lbGasPrice08.Text = priceDatas[7].Price.ToString("n2");
+            lbGasPrice09.Text = priceDatas[8].Price.ToString("n2");
+            lbGasPrice10.Text = priceDatas[9].Price.ToString("n2");
+            
         }
     }
 }

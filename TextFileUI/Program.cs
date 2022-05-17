@@ -20,18 +20,18 @@ namespace TextFileUI
             // textFile = _config.GetValue<string>("TextFile");
 
             ContactModel user1 = new ContactModel();
-            user1.FirstName = "Tim";
-            user1.LastName = "Corey";
-            user1.EmailAddresses.Add("tim@iamtimcorey.com");
-            user1.EmailAddresses.Add("me@timothycorey.com");
+            user1.FirstName = "John";
+            user1.LastName = "Snow";
+            user1.EmailAddresses.Add("John@gmail.com");
+            user1.EmailAddresses.Add("me@gmail.com");
             user1.PhoneNumbers.Add("555-1212");
             user1.PhoneNumbers.Add("555-1234");
 
             ContactModel user2 = new ContactModel();
-            user2.FirstName = "Charity";
-            user2.LastName = "Corey";
+            user2.FirstName = "susan";
+            user2.LastName = "Snow";
             user2.EmailAddresses.Add("nope@aol.com");
-            user2.EmailAddresses.Add("me@timothycorey.com");
+            user2.EmailAddresses.Add("me@gmail.com");
             user2.PhoneNumbers.Add("555-1212");
             user2.PhoneNumbers.Add("555-9876");
 

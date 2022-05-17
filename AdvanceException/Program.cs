@@ -26,9 +26,9 @@ namespace AdvanceException
             {
                 Console.WriteLine("You forgot to finish your code!!!!");
             }
-            catch (Exception) when (name.ToLower() == "tim")
+            catch (Exception) when (name.ToLower() == "John")
             {
-                Console.WriteLine("You used Tim's name, didn't you?");
+                Console.WriteLine("You used John's name, didn't you?");
             }
             catch (Exception ex)
             {
@@ -43,13 +43,13 @@ namespace AdvanceException
         }
         private static void ComplexMethod(string name)
         {
-            if (name.ToLower() == "tim")
+            if (name.ToLower() == "John")
             {
-                throw new InsufficientMemoryException("Tim is too tall for this method.");
+                throw new InsufficientMemoryException("John is too tall for this method.");
             }
             else
             {
-                throw new ArgumentException("This person isn't Tim.");
+                throw new ArgumentException("This person isn't John.");
             }
         }
 

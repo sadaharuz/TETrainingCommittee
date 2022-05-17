@@ -37,8 +37,8 @@ namespace SQLServerUI
             BasicContactModel contact = new BasicContactModel
             {
                 Id = 1,
-                FirstName = "Timothy",
-                LastName = "Corey"
+                FirstName = "John",
+                LastName = "Snow"
             };
             sql.UpdateContactName(contact);
         }
@@ -49,13 +49,13 @@ namespace SQLServerUI
             {
                 BasicInfo = new BasicContactModel
                 {
-                    FirstName = "Charity",
-                    LastName = "Corey"
+                    FirstName = "susan",
+                    LastName = "Snow"
                 }
             };
 
             user.EmailAddresses.Add(new EmailAddressModel { EmailAddress = "nope@aol.com" });
-            user.EmailAddresses.Add(new EmailAddressModel { Id = 2, EmailAddress = "me@timothycorey.com" });
+            user.EmailAddresses.Add(new EmailAddressModel { Id = 2, EmailAddress = "me@gmail.com" });
 
             user.PhoneNumbers.Add(new PhoneNumberModel { Id = 1, PhoneNumber = "555-1212" });
             user.PhoneNumbers.Add(new PhoneNumberModel { PhoneNumber = "555-9876" });

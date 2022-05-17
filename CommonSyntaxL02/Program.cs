@@ -10,8 +10,8 @@ namespace CommonSyntaxL02
             string lastName = "";
             string fullName = "";
 
-            firstName = "Tim";
-            lastName = "Corey";
+            firstName = "John";
+            lastName = "Snow";
 
             // $ is for string interpolation
             fullName = $"{ firstName } { lastName }";

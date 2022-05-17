@@ -14,23 +14,23 @@ namespace CommonSyntaxL03
             Console.Write("What is your last name: ");
             string lastName = Console.ReadLine();
 
-            //if (firstName.ToLower() == "tim")
+            //if (firstName.ToLower() == "John")
             //{
-            //    Console.WriteLine("Welcome Mr. Corey");
+            //    Console.WriteLine("Welcome Mr. Snow");
             //}
 
-            //if (firstName.ToLower() == "tim")
+            //if (firstName.ToLower() == "John")
             //{
-            //    Console.WriteLine("Hello Mr. Corey");
+            //    Console.WriteLine("Hello Mr. Snow");
             //}
             //else
             //{
             //    Console.WriteLine("Hello other person.");
             //}
 
-            //if (firstName.ToLower() == "tim")
+            //if (firstName.ToLower() == "John")
             //{
-            //    Console.WriteLine("Hello Mr. Corey");
+            //    Console.WriteLine("Hello Mr. Snow");
             //}
             //else if (firstName.ToLower() == "sue")
             //{
@@ -41,16 +41,16 @@ namespace CommonSyntaxL03
             //    Console.WriteLine("I don't know who you are.");
             //}
 
-            //if (firstName.ToLower() == "tim" && lastName.ToLower() == "corey")
+            //if (firstName.ToLower() == "John" && lastName.ToLower() == "Snow")
             //{
             //    Console.WriteLine("Hello professor");
             //}
-            //else if (firstName.ToLower() == "tim")
+            //else if (firstName.ToLower() == "John")
             //{
-            //    Console.WriteLine("Hello other Tim");
+            //    Console.WriteLine("Hello other John");
             //}
 
-            //if (firstName.ToLower() == "tim" || firstName.ToLower() == "sue")
+            //if (firstName.ToLower() == "John" || firstName.ToLower() == "sue")
             //{
             //    Console.WriteLine($"Hello Professor { firstName }");
             //}
@@ -59,13 +59,13 @@ namespace CommonSyntaxL03
             //    Console.WriteLine("Hello Student");
             //}
 
-            //if ((firstName.ToLower() == "tim" && lastName.ToLower() == "corey") 
+            //if ((firstName.ToLower() == "John" && lastName.ToLower() == "Snow") 
             //    || (firstName.ToLower() == "sue" && lastName.ToLower() == "storm"))
             //{
             //    Console.WriteLine($"Hello Professor { lastName }");
             //}
 
-            //if (firstName.ToLower() != "tim")
+            //if (firstName.ToLower() != "John")
             //{
 
             //}
@@ -94,7 +94,7 @@ namespace CommonSyntaxL03
 
             //switch (firstName.ToLower())
             //{
-            //    case "tim":
+            //    case "John":
             //        Console.WriteLine("Hello Professor");
             //        break;
             //    case "sue":

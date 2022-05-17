@@ -6,10 +6,10 @@ namespace PropertyTypes
     {
         static void Main(string[] args)
         {
-            PersonModel person = new PersonModel("Corey");
+            PersonModel person = new PersonModel("Snow");
 
-            person.FirstName = "Tim";
-            //person.LastName = "Corey";
+            person.FirstName = "John";
+            //person.LastName = "Snow";
             person.Age = 40;
             person.SSN = "123-45-6789";
 

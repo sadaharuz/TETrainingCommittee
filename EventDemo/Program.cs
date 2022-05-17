@@ -11,7 +11,7 @@ namespace EventDemo
 
             history.EnrollmentFull += CollegeClass_EnrollmentFull;
 
-            history.SignUpStudent("Tim Corey").PrintToConsole();
+            history.SignUpStudent("John Snow").PrintToConsole();
             history.SignUpStudent("Sue Storm").PrintToConsole();
             history.SignUpStudent("Joe Smith").PrintToConsole();
             history.SignUpStudent("Mary Jones").PrintToConsole();

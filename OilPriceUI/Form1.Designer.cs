@@ -53,6 +53,7 @@ namespace OilPriceUI
             this.lbGasPrice10 = new System.Windows.Forms.Label();
             this.ibRemark = new System.Windows.Forms.Label();
             this.lbRemark2 = new System.Windows.Forms.Label();
+            this.lbDateUpdated = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pbGasPrice01)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbGasPrice02)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbGasPrice03)).BeginInit();
@@ -309,12 +310,24 @@ namespace OilPriceUI
             this.lbRemark2.TabIndex = 23;
             this.lbRemark2.Text = "** ราคานี้ไม่รวมภาษีบำรุงท้องที่ (ถ้ามี)";
             // 
+            // lbDateUpdated
+            // 
+            this.lbDateUpdated.AutoSize = true;
+            this.lbDateUpdated.BackColor = System.Drawing.Color.White;
+            this.lbDateUpdated.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lbDateUpdated.ForeColor = System.Drawing.Color.DimGray;
+            this.lbDateUpdated.Location = new System.Drawing.Point(12, 315);
+            this.lbDateUpdated.Name = "lbDateUpdated";
+            this.lbDateUpdated.Size = new System.Drawing.Size(0, 19);
+            this.lbDateUpdated.TabIndex = 24;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(418, 377);
+            this.Controls.Add(this.lbDateUpdated);
             this.Controls.Add(this.lbRemark2);
             this.Controls.Add(this.ibRemark);
             this.Controls.Add(this.lbGasPrice10);
@@ -384,6 +397,7 @@ namespace OilPriceUI
         private System.Windows.Forms.Label lbGasPrice10;
         private System.Windows.Forms.Label ibRemark;
         private System.Windows.Forms.Label lbRemark2;
+        private System.Windows.Forms.Label lbDateUpdated;
     }
 }
 

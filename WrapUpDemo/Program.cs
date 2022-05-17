@@ -9,7 +9,7 @@ namespace WrapUpDemo
         {
             List<PersonModel> people = new List<PersonModel>
             {
-                new PersonModel{ FirstName = "Tim", LastName = "Coreydarnit", Email = "tim@iamtimcorey.com"},
+                new PersonModel{ FirstName = "John", LastName = "Snow", Email = "John@gmail.com"},
                 new PersonModel{ FirstName = "Sue", LastName = "Storm", Email = "sue@stormy.net"},
                 new PersonModel{ FirstName = "John", LastName = "Smith", Email = "John45376@aol.com"}
             };

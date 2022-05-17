@@ -12,7 +12,7 @@ namespace CommonSyntaxL10
             //    Console.WriteLine(i);
             //}
 
-            //string[] firstNames = new string[] { "Tim", "Sue", "Bob" };
+            //string[] firstNames = new string[] { "John", "Sue", "Bob" };
 
             //for (int i = 0; i < firstNames.Length; i++)
             //{
@@ -21,7 +21,7 @@ namespace CommonSyntaxL10
 
             List<string> lastNames = new List<string>();
 
-            lastNames.Add("Corey");
+            lastNames.Add("Snow");
             lastNames.Add("Smith");
             lastNames.Add("Jones");
 
