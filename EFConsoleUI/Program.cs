@@ -14,7 +14,7 @@ namespace EFConsoleUI
             //ReadAll();
             //ReadById(1);
             //CreateCharity();
-            //UpdateFirstName(1, "Timothy");
+            //UpdateFirstName(1, "John");
             //ReadAll();
 
             //RemovePhoneNumber(1, "555-1212");

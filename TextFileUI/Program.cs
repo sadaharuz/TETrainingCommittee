@@ -39,7 +39,7 @@ namespace TextFileUI
             //CreateContact(user2);
             //GetAllContacts();
 
-            //UpdateContactsFirstName("Timothy");
+            //UpdateContactsFirstName("John");
             //GetAllContacts();
 
             //Console.WriteLine();

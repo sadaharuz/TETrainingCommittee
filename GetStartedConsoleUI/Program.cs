@@ -1,9 +1,11 @@
 ﻿using System;
+// "using" => Include Library 
 
 namespace GetStartedConsoleUI
 {
     class Program
     {
+        // Method "Main" คือตัวไว้ใช้ run default ของตัว C#
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
@@ -15,6 +17,7 @@ namespace GetStartedConsoleUI
             Console.WriteLine("This is safer");
 
             Console.ReadLine();
+            
         }
     }
 }
